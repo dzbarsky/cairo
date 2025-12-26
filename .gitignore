@@ -1,3 +1,5 @@
+MODULE.bazel.lock
+bazel-*
 .deps
 .libs
 .perf
